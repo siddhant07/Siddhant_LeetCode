@@ -30,23 +30,35 @@ class Solution {
             runner.next=new ListNode(1);
         
         return BackHead.next;
+       /* 
+        long n1=0, n2=0;
+        long digitizer=1;
         
-        /*while(l1!= null){
-            n1+=l1.val*digitizer;
+        while(l1!= null || l2!=null){
+            if(l1!=null){
+                n1+=l1.val*digitizer;
+                l1=l1.next;
+            }
+            if(l2!=null){
+                n2+=l2.val*digitizer;
+                l2=l2.next;
+            }
             digitizer=digitizer*10;
-            l1=l1.next;
         }
         
-        digitizer=1;
-        while(l2!= null){
-            n2+=l2.val*digitizer;
-            digitizer=digitizer*10;
-            l2=l2.next;
+        ListNode answerHead=new ListNode(0);
+        ListNode runner=answerHead;
+        long sum=n1+n2;
+        digitizer=String.valueOf(sum).length();
+        
+        while(digitizer>0){
+            int x= Math.toIntExact(sum%10);
+            runner.next=new ListNode(x);
+            sum=sum/10;
+            runner=runner.next;
+            digitizer--;
         }
-        ListNode answer=new ListNode(n1+n2);
-        return answer;*/
-        
-        
+        return answerHead.next;  */    
         
     }
 }
