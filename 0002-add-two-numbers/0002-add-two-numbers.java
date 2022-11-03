@@ -17,10 +17,7 @@ class Solution {
         
         while(l1!=null || l2!=null){
             a=(l1!=null)?l1.val:0;
-            System.out.println(a);
             b=(l2!=null)?l2.val:0;
-            System.out.println(b);
-            System.out.println(a+b+carry);
             runner.next=new ListNode((a+b+carry)%10);
             runner=runner.next;
             carry=(a+b+carry)/10;
