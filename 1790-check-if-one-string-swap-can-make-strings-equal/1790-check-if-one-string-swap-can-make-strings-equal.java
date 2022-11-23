@@ -15,7 +15,6 @@ class Solution {
                     return false;
             }
             
-            System.out.println(check);
             if(check[0]==check[3]&&check[1]==check[2])
                 return true;
         }
