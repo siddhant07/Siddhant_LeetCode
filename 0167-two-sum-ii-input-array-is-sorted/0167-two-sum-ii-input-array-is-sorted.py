@@ -9,6 +9,5 @@ class Solution:
             elif numbers[l] + numbers[r] < target:
                 l += 1
             else:
-                l = 0
                 r -= 1
                 
