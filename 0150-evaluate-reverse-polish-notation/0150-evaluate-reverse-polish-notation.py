@@ -6,10 +6,8 @@ class Solution:
         
         for i in tokens:
             if i in ops:
-                a = stack[-1]
-                stack.pop()
-                b = stack[-1]
-                stack.pop()
+                a = stack.pop()
+                b = stack.pop()
                 stack.append(int(ops[i](b,a)))
             else:
                 stack.append(int(i))
