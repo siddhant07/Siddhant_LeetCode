@@ -1,13 +1,12 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        solution = {}
+        answer = {}
         
         for i in strs:
-            ss = ''.join(sorted(i))
-            
-            if ss not in solution:
-                solution[ss] = [i]
+            gl = ''.join(sorted(i))
+            if gl in answer:
+                answer[gl].append(i)
             else:
-                solution[ss].append(i)
+                answer[gl] = [i]
         
-        return solution.values()
+        return answer.values()
