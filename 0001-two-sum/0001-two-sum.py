@@ -1,12 +1,10 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        hashset = {}
+        hashset = set()
         
-        for i, n in enumerate(nums):
-            diff = target - n
-            if diff in hashset:
-                return [hashset[diff], i]
-            hashset[n] = i
-            
-            
-        
+        for i in range(0, len(nums)):
+            if target-nums[i] in hashset:
+                return [nums.index(target-nums[i]), i]
+            elif nums[i] not in hashset:
+                hashset.add(nums[i])
+        return 0
