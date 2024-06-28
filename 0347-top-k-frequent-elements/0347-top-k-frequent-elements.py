@@ -1,19 +1,27 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        count = {}
-        frequency = [[] for i in range(len(nums) + 1)]
-        res = []
-
+        counter = [[] for i in range(len(nums)+1)]
+        hashset = {}
+        #print(counter)
         for n in nums:
-            count[n] = 1 + count.get(n, 0)
-
-        for i in count:
-            frequency[count[i]].append(i)
+            hashset[n] = 1 + hashset.get(n, 0)
         
-        for i in range(len(frequency) - 1, 0, -1):
-            for n in frequency[i]:
+        #print(hashset)
+        
+        for val, count in hashset.items():
+            #print(val,count)
+            counter[count].append(val)
+            #print(counter)
+        
+        print(counter)
+        res = []
+        
+        for i in range(len(counter)-1, 0, -1):
+            for n in counter[i]:
                 res.append(n)
-                if(len(res)==k):
+                if len(res) == k:
                     return res
+                
+            
         
         
