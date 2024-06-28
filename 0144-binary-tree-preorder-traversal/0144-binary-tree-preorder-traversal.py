@@ -7,16 +7,29 @@
 class Solution:
     def preorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
         res = []
+        stack = []
         
-        def preorder(root):
-            if not root:
-                return
+        cur = root
+        
+        while cur or stack:
+            if cur:
+                res.append(cur.val)
+                stack.append(cur.right)
+                cur = cur.left
+            else:
+                cur = stack.pop()
+                
             
-            res.append(root.val)
-            preorder(root.left)
-            preorder(root.right)
         
-        preorder(root)
+#         def preorder(root):
+#             if not root:
+#                 return
+            
+#             res.append(root.val)
+#             preorder(root.left)
+#             preorder(root.right)
+        
+#         preorder(root)
         
         return res
         
