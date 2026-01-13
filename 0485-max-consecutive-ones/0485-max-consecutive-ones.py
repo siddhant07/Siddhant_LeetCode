@@ -6,10 +6,10 @@ class Solution:
         while i<len(nums):
             if nums[i] == 1:
                 c += 1
-                ans = max(ans,c)
             else:
                 ans = max(ans,c)
                 c = 0
+            ans = max(ans,c)
             i += 1
 
         return ans
