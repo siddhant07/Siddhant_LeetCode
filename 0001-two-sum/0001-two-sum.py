@@ -6,4 +6,5 @@ class Solution:
             if exists in hashmap:
                 return [i, hashmap[exists]]
             hashmap[nums[i]] = i
+        print(hashmap)
         
