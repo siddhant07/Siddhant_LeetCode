@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0001-two-sum) |
 | [0485-max-consecutive-ones](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1929-concatenation-of-array) |
@@ -13,4 +14,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1929-concatenation-of-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
