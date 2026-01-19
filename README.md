@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0050-powx-n) |
 | [2965-find-missing-and-repeated-values](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -61,4 +62,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
