@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0088-merge-sorted-array) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0088-merge-sorted-array) |
 ## Bit Manipulation
 |  |
@@ -69,4 +71,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0050-powx-n) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
