@@ -28,12 +28,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0202-happy-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0050-powx-n) |
+| [0202-happy-number](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0202-happy-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -61,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0202-happy-number) |
 ## Bit Manipulation
 |  |
 | ------- |
