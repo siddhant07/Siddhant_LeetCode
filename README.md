@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0231-power-of-two) |
 | [2965-find-missing-and-repeated-values](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0136-single-number](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0231-power-of-two) |
 ## Greedy
 |  |
 | ------- |
