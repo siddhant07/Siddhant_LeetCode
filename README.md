@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0231-power-of-two) |
 | [2965-find-missing-and-repeated-values](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/2965-find-missing-and-repeated-values) |
