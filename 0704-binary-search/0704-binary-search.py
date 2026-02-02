@@ -1,12 +1,18 @@
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
-        l, r = 0, len(nums)
-        while l!=r:
-            m = (l+r)//2
-            if nums[m] > target:
-                r = m
-            elif nums[m] < target:
-                l = m+1
+        def BinarySearch(low, high):
+            mid = (low+high)//2
+
+            if low > high:
+                return -1
+            
+            if nums[mid] == target:
+                return mid
+            
+            if nums[mid]>target:
+                return BinarySearch(low, mid - 1)
             else:
-                return m
-        return -1
+                return BinarySearch(mid + 1, high)
+            
+        return BinarySearch(0, len(nums)-1)
+        
