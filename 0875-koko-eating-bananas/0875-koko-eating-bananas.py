@@ -1,24 +1,21 @@
-import math
 class Solution:
-    
-    def trySpeed(s : int, piles: List[int], h:int) -> int:
-        time = 0
-        for i in piles:
-            time += math.ceil(i/s)
-        return time
-    
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
-        
-        l, r = 1, max(piles)
-        res = r
-        while l <= r:
-            m = (l + r)// 2
-            hours = Solution.trySpeed(m, piles, h)
-            if hours <= h:
-                r = m - 1
-                res = min(res, m)
+
+        low, high = 1, max(piles)
+        res = high
+
+        while low<=high:
+            speed = (low+high)//2
+
+            totalTime = 0
+            for p in piles:
+                totalTime+=math.ceil(float(p)/speed)
+            
+            if totalTime <= h:
+                res = speed
+                high = speed - 1
             else:
-                l = m + 1
+                low = speed + 1
         return res
-                
+
         
