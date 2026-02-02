@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0043-multiply-strings) |
 | [1929-concatenation-of-array](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0066-plus-one) |
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
