@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0231-power-of-two) |
 ## Greedy
 |  |
@@ -133,4 +134,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0226-invert-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
