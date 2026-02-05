@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0202-happy-number) |
 ## Bit Manipulation
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0231-power-of-two) |
 ## Greedy
@@ -142,5 +144,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
