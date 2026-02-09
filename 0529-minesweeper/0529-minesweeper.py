@@ -1,37 +1,28 @@
-
 class Solution:
-    def updateBoard(self, board: List[List[str]], click: List[int]) -> List[List[str]]:
-        row, col = click
-        if board[row][col] == 'M':
-            board[row][col] = 'X'
-        else:
-            self.reveal(row, col, board)
-        return board
+    def updateBoard(self, board, click):
 
-    def reveal(self, i: int, j: int, board: List[List[str]]):
-        if i < 0 or i >= len(board) or j < 0 or j >= len(board[0]) or board[i][j] != 'E':
-            return
-        neigh = self.numbermines(i, j, board, 0)
-        if neigh > 0:
-            board[i][j] = str(neigh)
-        else:
-            board[i][j] = 'B'
-            self.reveal(i + 1, j, board)
-            self.reveal(i, j + 1, board)
-            self.reveal(i - 1, j, board)
-            self.reveal(i, j - 1, board)
-            self.reveal(i + 1, j + 1, board)
-            self.reveal(i - 1, j - 1, board)
-            self.reveal(i + 1, j - 1, board)
-            self.reveal(i - 1, j + 1, board)
+        if board[click[0]][click[1]] == 'M':                # <-- handle case that
+            board[click[0]][click[1]] = 'X' ; return board  #     click is mined
 
-    def numbermines(self, row: int, col: int, board: List[List[str]], c: int) -> int:
-        if row - 1 >= 0 and board[row - 1][col] == 'M': c += 1
-        if row + 1 < len(board) and board[row + 1][col] == 'M': c += 1
-        if col - 1 >= 0 and board[row][col - 1] == 'M': c += 1
-        if col + 1 < len(board[0]) and board[row][col + 1] == 'M': c += 1
-        if row - 1 >= 0 and col - 1 >= 0 and board[row - 1][col - 1] == 'M': c += 1
-        if row - 1 >= 0 and col + 1 < len(board[0]) and board[row - 1][col + 1] == 'M': c += 1
-        if row + 1 < len(board) and col - 1 >= 0 and board[row + 1][col - 1] == 'M': c += 1
-        if row + 1 < len(board) and col + 1 < len(board[0]) and board[row + 1][col + 1] == 'M': c += 1
-        return c
+        adjacent = lambda x,y : [(x+dx,y+dy) for dx in range(-1,2) for dy in range(-1,2) 
+                if (dx or dy) and 0 <= x+dx < len(board) and 0 <= y+dy < len(board[0])]
+        
+        def dfs(x: int,y: int)-> None:                      # –––––––––start function–––––––––
+            adj = adjacent(x,y)
+                                                            
+            mines = sum(board[X][Y] == 'M' for X,Y in adj)  # <-- count up adjacent mines 
+                                                            #     to board[x][y]
+            if  mines:
+                board[x][y] = str(mines)                    # <-- If mines, write count...
+
+            else:    
+                board[x][y] = 'B'                           # <-- ... if not, mark it "revealed" 
+
+                for X,Y in adj:
+                    if board[X][Y] == 'E':                  # <-- explore each adjacent cell
+                        dfs(X,Y)                            #     if unexplored
+            return                                          #––––––––––end function––––––––––
+                                                            
+        dfs(*click)                                         # <-- start at click
+
+        return board                                        # <-- return updated board
