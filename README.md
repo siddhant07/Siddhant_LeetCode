@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1470-shuffle-the-array](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1470-shuffle-the-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1711-count-good-meals](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1711-count-good-meals) |
+| [1712-ways-to-split-array-into-three-subarrays](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1929-concatenation-of-array](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1929-concatenation-of-array) |
 | [2021-brightest-position-on-street](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/2021-brightest-position-on-street) |
 | [2965-find-missing-and-repeated-values](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [1712-ways-to-split-array-into-three-subarrays](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1712-ways-to-split-array-into-three-subarrays](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 ## Tree
 |  |
 | ------- |
@@ -181,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [1712-ways-to-split-array-into-three-subarrays](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [2021-brightest-position-on-street](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/2021-brightest-position-on-street) |
 ## Ordered Set
 |  |
