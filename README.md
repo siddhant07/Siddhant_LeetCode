@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1470-shuffle-the-array](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1929-concatenation-of-array) |
+| [2021-brightest-position-on-street](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/2021-brightest-position-on-street) |
 | [2965-find-missing-and-repeated-values](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0169-majority-element) |
+| [2021-brightest-position-on-street](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/2021-brightest-position-on-street) |
 ## Counting
 |  |
 | ------- |
@@ -154,4 +156,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0143-reorder-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [2021-brightest-position-on-street](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/2021-brightest-position-on-street) |
+## Ordered Set
+|  |
+| ------- |
+| [2021-brightest-position-on-street](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/2021-brightest-position-on-street) |
 <!---LeetCode Topics End-->
