@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1711-count-good-meals](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1711-count-good-meals) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1743-restore-the-array-from-adjacent-pairs) |
+| [1801-number-of-orders-in-the-backlog](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1801-number-of-orders-in-the-backlog) |
 | [1929-concatenation-of-array](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1929-concatenation-of-array) |
 | [2021-brightest-position-on-street](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/2021-brightest-position-on-street) |
 | [2965-find-missing-and-repeated-values](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0043-multiply-strings) |
+| [1801-number-of-orders-in-the-backlog](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1801-number-of-orders-in-the-backlog) |
 | [1929-concatenation-of-array](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -201,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0692-top-k-frequent-words) |
+| [1801-number-of-orders-in-the-backlog](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1801-number-of-orders-in-the-backlog) |
 ## Bucket Sort
 |  |
 | ------- |
