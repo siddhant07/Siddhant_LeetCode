@@ -9,18 +9,15 @@ class Solution:
         
         def dfs(x: int,y: int)-> None:                  
             adj = adjacent(x,y)                                                          
-            mines = sum(board[X][Y] == 'M' for X,Y in adj)  # <-- count up adjacent mine
+            mines = sum(board[X][Y] == 'M' for X,Y in adj)  # <-- count up adjacent mines 
             if  mines:
                 board[x][y] = str(mines)                    # <-- If mines, write count...
-
             else:    
-                board[x][y] = 'B'                           # <-- ... if not, mark it "revealed" 
-
+                board[x][y] = 'B'                           # <-- ... if not, mark it "reveal"
                 for X,Y in adj:
                     if board[X][Y] == 'E':                  # <-- explore each adjacent cell
                         dfs(X,Y)                            #     if unexplored
-            return                                          #––––––––––end function––––––––––
+            return                                        
                                                             
         dfs(*click)                                         # <-- start at click
-
         return board                                        # <-- return updated board
