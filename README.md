@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0692-top-k-frequent-words](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1470-shuffle-the-array](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1470-shuffle-the-array) |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0202-happy-number) |
+| [0692-top-k-frequent-words](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1711-count-good-meals](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1711-count-good-meals) |
 | [2965-find-missing-and-repeated-values](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -76,11 +78,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0169-majority-element) |
+| [0692-top-k-frequent-words](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0692-top-k-frequent-words) |
 | [2021-brightest-position-on-street](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/2021-brightest-position-on-street) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0169-majority-element) |
+| [0692-top-k-frequent-words](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Two Pointers
 |  |
@@ -125,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0043-multiply-strings](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0125-valid-palindrome) |
+| [0692-top-k-frequent-words](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Binary Search
 |  |
@@ -171,4 +176,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2021-brightest-position-on-street](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/2021-brightest-position-on-street) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0692-top-k-frequent-words) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
