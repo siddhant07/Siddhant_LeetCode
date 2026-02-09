@@ -7,11 +7,9 @@ class Solution:
         adjacent = lambda x,y : [(x+dx,y+dy) for dx in range(-1,2) for dy in range(-1,2) 
                 if (dx or dy) and 0 <= x+dx < len(board) and 0 <= y+dy < len(board[0])]
         
-        def dfs(x: int,y: int)-> None:                      # –––––––––start function–––––––––
-            adj = adjacent(x,y)
-                                                            
-            mines = sum(board[X][Y] == 'M' for X,Y in adj)  # <-- count up adjacent mines 
-                                                            #     to board[x][y]
+        def dfs(x: int,y: int)-> None:                  
+            adj = adjacent(x,y)                                                          
+            mines = sum(board[X][Y] == 'M' for X,Y in adj)  # <-- count up adjacent mine
             if  mines:
                 board[x][y] = str(mines)                    # <-- If mines, write count...
 
