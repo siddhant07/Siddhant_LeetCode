@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0529-minesweeper](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0529-minesweeper) |
+| [0690-employee-importance](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0202-happy-number) |
+| [0690-employee-importance](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1711-count-good-meals](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1711-count-good-meals) |
@@ -148,16 +150,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0226-invert-binary-tree) |
+| [0690-employee-importance](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0690-employee-importance) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0226-invert-binary-tree) |
 | [0529-minesweeper](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0529-minesweeper) |
+| [0690-employee-importance](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0690-employee-importance) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0226-invert-binary-tree) |
 | [0529-minesweeper](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0529-minesweeper) |
+| [0690-employee-importance](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0690-employee-importance) |
 ## Binary Tree
 |  |
 | ------- |
