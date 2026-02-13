@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0226-invert-binary-tree) |
 | [0529-minesweeper](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0529-minesweeper) |
 | [0690-employee-importance](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0690-employee-importance) |
+| [1242-web-crawler-multithreaded](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1242-web-crawler-multithreaded) |
 | [1600-throne-inheritance](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1600-throne-inheritance) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 ## Breadth-First Search
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0226-invert-binary-tree) |
 | [0529-minesweeper](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0529-minesweeper) |
 | [0690-employee-importance](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0690-employee-importance) |
+| [1242-web-crawler-multithreaded](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1242-web-crawler-multithreaded) |
 ## Binary Tree
 |  |
 | ------- |
@@ -243,4 +245,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Concurrency
+|  |
+| ------- |
+| [1242-web-crawler-multithreaded](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1242-web-crawler-multithreaded) |
 <!---LeetCode Topics End-->
