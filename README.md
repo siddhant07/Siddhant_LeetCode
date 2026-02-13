@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0210-course-schedule-ii](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0226-invert-binary-tree) |
+| [0261-graph-valid-tree](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0261-graph-valid-tree) |
 | [0490-the-maze](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0490-the-maze) |
 | [0529-minesweeper](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0529-minesweeper) |
 | [0545-boundary-of-binary-tree](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0545-boundary-of-binary-tree) |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0210-course-schedule-ii](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0226-invert-binary-tree) |
+| [0261-graph-valid-tree](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0261-graph-valid-tree) |
 | [0490-the-maze](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0490-the-maze) |
 | [0529-minesweeper](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0529-minesweeper) |
 | [0690-employee-importance](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0690-employee-importance) |
@@ -268,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0210-course-schedule-ii) |
+| [0261-graph-valid-tree](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0261-graph-valid-tree) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0841-keys-and-rooms) |
 ## Topological Sort
@@ -309,4 +312,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0042-trapping-rain-water) |
+## Union-Find
+|  |
+| ------- |
+| [0261-graph-valid-tree](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0261-graph-valid-tree) |
 <!---LeetCode Topics End-->
