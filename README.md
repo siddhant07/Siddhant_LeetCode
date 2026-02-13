@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0690-employee-importance](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0704-binary-search) |
+| [0849-maximize-distance-to-closest-person](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0849-maximize-distance-to-closest-person) |
 | [0875-koko-eating-bananas](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1470-shuffle-the-array](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1470-shuffle-the-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
