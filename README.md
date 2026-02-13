@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0169-majority-element) |
 ## Sorting
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0206-reverse-linked-list) |
@@ -213,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0692-top-k-frequent-words](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1801-number-of-orders-in-the-backlog](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1801-number-of-orders-in-the-backlog) |
 ## Bucket Sort
@@ -236,4 +239,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
