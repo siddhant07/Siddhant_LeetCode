@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0362-design-hit-counter](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0362-design-hit-counter) |
 | [0485-max-consecutive-ones](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0490-the-maze](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0490-the-maze) |
 | [0529-minesweeper](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0529-minesweeper) |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0362-design-hit-counter](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0362-design-hit-counter) |
 | [0704-binary-search](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1146-snapshot-array](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1146-snapshot-array) |
@@ -280,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0362-design-hit-counter](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0362-design-hit-counter) |
 | [0588-design-in-memory-file-system](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0588-design-in-memory-file-system) |
 | [0706-design-hashmap](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0706-design-hashmap) |
 | [1146-snapshot-array](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1146-snapshot-array) |
@@ -316,4 +319,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0261-graph-valid-tree](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0261-graph-valid-tree) |
+## Queue
+|  |
+| ------- |
+| [0362-design-hit-counter](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0362-design-hit-counter) |
+## Data Stream
+|  |
+| ------- |
+| [0362-design-hit-counter](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0362-design-hit-counter) |
 <!---LeetCode Topics End-->
