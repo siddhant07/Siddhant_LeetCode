@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0202-happy-number) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0588-design-in-memory-file-system](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0588-design-in-memory-file-system) |
 | [0690-employee-importance](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0043-multiply-strings](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0125-valid-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0588-design-in-memory-file-system](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0588-design-in-memory-file-system) |
 | [0692-top-k-frequent-words](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1108-defanging-an-ip-address](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1108-defanging-an-ip-address) |
@@ -226,4 +228,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0588-design-in-memory-file-system](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0588-design-in-memory-file-system) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
