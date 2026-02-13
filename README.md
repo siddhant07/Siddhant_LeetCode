@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0226-invert-binary-tree) |
+| [0545-boundary-of-binary-tree](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0545-boundary-of-binary-tree) |
 | [0690-employee-importance](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0690-employee-importance) |
 | [1600-throne-inheritance](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1600-throne-inheritance) |
 ## Depth-First Search
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0226-invert-binary-tree) |
 | [0490-the-maze](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0490-the-maze) |
 | [0529-minesweeper](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0529-minesweeper) |
+| [0545-boundary-of-binary-tree](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0545-boundary-of-binary-tree) |
 | [0690-employee-importance](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0690-employee-importance) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0841-keys-and-rooms) |
@@ -219,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0226-invert-binary-tree) |
+| [0545-boundary-of-binary-tree](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0545-boundary-of-binary-tree) |
 ## Linked List
 |  |
 | ------- |
