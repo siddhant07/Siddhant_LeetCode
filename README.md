@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1801-number-of-orders-in-the-backlog](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1801-number-of-orders-in-the-backlog) |
 | [1929-concatenation-of-array](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1929-concatenation-of-array) |
 | [2021-brightest-position-on-street](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/2021-brightest-position-on-street) |
+| [2742-painting-the-walls](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/2742-painting-the-walls) |
 | [2965-find-missing-and-repeated-values](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2742-painting-the-walls](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/2742-painting-the-walls) |
 ## Recursion
 |  |
 | ------- |
