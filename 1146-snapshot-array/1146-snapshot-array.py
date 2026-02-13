@@ -1,3 +1,13 @@
+# Algorithm
+
+# For each index i, store a list of [snap_id, value] pairs and initialize it with [0, 0]
+
+# set(index, val): append [current_snap_id, val] to history[index]
+
+# snap(): return current_snap_id, then increment it
+
+# get(index, snap_id): binary search in history[index] to find the last record with record_snap_id <= snap_id, then return its value
+
 class SnapshotArray:
 
     def __init__(self, length: int):
@@ -16,6 +26,8 @@ class SnapshotArray:
         return self.history_records[index][snap_index - 1][1]
         
 
+
+# Time complexity: O(nlogn+k)
 
 # Your SnapshotArray object will be instantiated and called as such:
 # obj = SnapshotArray(length)
