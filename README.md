@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0706-design-hashmap](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0706-design-hashmap) |
 | [0849-maximize-distance-to-closest-person](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0849-maximize-distance-to-closest-person) |
 | [0875-koko-eating-bananas](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0994-rotting-oranges) |
 | [1470-shuffle-the-array](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1470-shuffle-the-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1711-count-good-meals](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1711-count-good-meals) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0490-the-maze](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0490-the-maze) |
 | [0529-minesweeper](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0529-minesweeper) |
+| [0994-rotting-oranges](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0994-rotting-oranges) |
 | [2965-find-missing-and-repeated-values](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0490-the-maze](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0490-the-maze) |
 | [0529-minesweeper](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0529-minesweeper) |
 | [0690-employee-importance](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0690-employee-importance) |
+| [0994-rotting-oranges](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0994-rotting-oranges) |
 | [1236-web-crawler](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1236-web-crawler) |
 | [1242-web-crawler-multithreaded](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1242-web-crawler-multithreaded) |
 ## Binary Tree
