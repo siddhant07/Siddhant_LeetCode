@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0276-paint-fence](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0276-paint-fence) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [2742-painting-the-walls](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/2742-painting-the-walls) |
 ## Recursion
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0490-the-maze](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0490-the-maze) |
 | [0529-minesweeper](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0529-minesweeper) |
 | [0690-employee-importance](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0690-employee-importance) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0841-keys-and-rooms) |
 | [1236-web-crawler](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1236-web-crawler) |
 | [1242-web-crawler-multithreaded](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1242-web-crawler-multithreaded) |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0490-the-maze](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0490-the-maze) |
 | [0529-minesweeper](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0529-minesweeper) |
 | [0690-employee-importance](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0690-employee-importance) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0994-rotting-oranges) |
 | [1236-web-crawler](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1236-web-crawler) |
@@ -245,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0692-top-k-frequent-words](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1801-number-of-orders-in-the-backlog](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1801-number-of-orders-in-the-backlog) |
 ## Bucket Sort
 |  |
@@ -254,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0210-course-schedule-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0841-keys-and-rooms) |
 ## Topological Sort
 |  |
@@ -285,4 +290,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0706-design-hashmap) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
