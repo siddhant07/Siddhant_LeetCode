@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0053-maximum-subarray) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0125-valid-palindrome) |
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -228,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0143-reorder-list) |
 ## Prefix Sum
 |  |
@@ -294,4 +298,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
