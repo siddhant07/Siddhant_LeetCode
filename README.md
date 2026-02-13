@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0849-maximize-distance-to-closest-person](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0849-maximize-distance-to-closest-person) |
 | [0875-koko-eating-bananas](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0994-rotting-oranges) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1470-shuffle-the-array](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1470-shuffle-the-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1711-count-good-meals](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1711-count-good-meals) |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0169-majority-element) |
 | [0588-design-in-memory-file-system](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0588-design-in-memory-file-system) |
 | [0692-top-k-frequent-words](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0692-top-k-frequent-words) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [2021-brightest-position-on-street](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/2021-brightest-position-on-street) |
 ## Counting
 |  |
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0276-paint-fence](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0276-paint-fence) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [2742-painting-the-walls](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/2742-painting-the-walls) |
 ## Recursion
 |  |
@@ -173,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 ## Tree
 |  |
