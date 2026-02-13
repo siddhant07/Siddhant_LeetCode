@@ -48,8 +48,6 @@ class Solution:
 
         return memo[0]
 
-        
-
 
 # Let N be the length of the jobs array.
 # Time complexity: O(NlogN)
