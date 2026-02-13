@@ -5,6 +5,16 @@ class Solution:
 
 #dfs
 
+
+# Initialize a stack to store the topological order
+# Build an adjacency list where [a, b] means an edge b ➔ a
+# Run DFS on each node if it hasn’t been visited yet
+# During DFS, recursively visit all unprocessed neighbors
+# After visiting neighbors, push the current node onto the stack
+# This ensures prerequisites appear before dependent courses
+# Once all nodes are processed, return the stack from top to bottom
+
+
     WHITE = 1
     GRAY = 2
     BLACK = 3
@@ -55,4 +65,5 @@ class Solution:
                 dfs(vertex)
 
         return topological_sorted_order[::-1] if is_possible else []
+#Time Complexity: O(V+E)
         
