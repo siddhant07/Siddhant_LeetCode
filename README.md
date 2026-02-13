@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0588-design-in-memory-file-system](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0588-design-in-memory-file-system) |
 | [0690-employee-importance](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0692-top-k-frequent-words) |
+| [1600-throne-inheritance](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1600-throne-inheritance) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1711-count-good-meals](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1711-count-good-meals) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1743-restore-the-array-from-adjacent-pairs) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0226-invert-binary-tree](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0226-invert-binary-tree) |
 | [0690-employee-importance](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0690-employee-importance) |
+| [1600-throne-inheritance](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1600-throne-inheritance) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -170,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0226-invert-binary-tree) |
 | [0529-minesweeper](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0529-minesweeper) |
 | [0690-employee-importance](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0690-employee-importance) |
+| [1600-throne-inheritance](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1600-throne-inheritance) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 ## Breadth-First Search
 |  |
@@ -228,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0588-design-in-memory-file-system](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0588-design-in-memory-file-system) |
+| [1600-throne-inheritance](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1600-throne-inheritance) |
 ## Sliding Window
 |  |
 | ------- |
