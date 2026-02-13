@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0690-employee-importance](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0704-binary-search) |
+| [0706-design-hashmap](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0706-design-hashmap) |
 | [0849-maximize-distance-to-closest-person](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0849-maximize-distance-to-closest-person) |
 | [0875-koko-eating-bananas](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1470-shuffle-the-array](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1470-shuffle-the-array) |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0588-design-in-memory-file-system](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0588-design-in-memory-file-system) |
 | [0690-employee-importance](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0706-design-hashmap](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0706-design-hashmap) |
 | [1600-throne-inheritance](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1600-throne-inheritance) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1711-count-good-meals](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1711-count-good-meals) |
@@ -210,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0206-reverse-linked-list) |
+| [0706-design-hashmap](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0706-design-hashmap) |
 ## Stack
 |  |
 | ------- |
@@ -250,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0588-design-in-memory-file-system](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0588-design-in-memory-file-system) |
+| [0706-design-hashmap](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0706-design-hashmap) |
 | [1600-throne-inheritance](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1600-throne-inheritance) |
 ## Sliding Window
 |  |
@@ -267,4 +271,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1236-web-crawler](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1236-web-crawler) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
