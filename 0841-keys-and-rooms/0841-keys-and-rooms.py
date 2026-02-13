@@ -1,3 +1,5 @@
+#DFS
+
 # When visiting a room for the first time, look at all the keys in that room. For any key that hasn't been used yet, add it to the todo list (stack) for it to be used.
 
 class Solution(object):
