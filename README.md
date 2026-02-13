@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0849-maximize-distance-to-closest-person](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0849-maximize-distance-to-closest-person) |
 | [0875-koko-eating-bananas](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0994-rotting-oranges) |
+| [1146-snapshot-array](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1146-snapshot-array) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1470-shuffle-the-array](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1470-shuffle-the-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0690-employee-importance](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0706-design-hashmap](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0706-design-hashmap) |
+| [1146-snapshot-array](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1146-snapshot-array) |
 | [1600-throne-inheritance](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1600-throne-inheritance) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1711-count-good-meals](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1711-count-good-meals) |
@@ -180,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1146-snapshot-array](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1146-snapshot-array) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 ## Tree
@@ -276,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0588-design-in-memory-file-system](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0588-design-in-memory-file-system) |
 | [0706-design-hashmap](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0706-design-hashmap) |
+| [1146-snapshot-array](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1146-snapshot-array) |
 | [1600-throne-inheritance](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1600-throne-inheritance) |
 ## Sliding Window
 |  |
