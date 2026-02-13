@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [1494-parallel-courses-ii](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1494-parallel-courses-ii) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Dynamic Programming
 |  |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0276-paint-fence](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0276-paint-fence) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1494-parallel-courses-ii](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1494-parallel-courses-ii) |
 | [2742-painting-the-walls](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/2742-painting-the-walls) |
 ## Recursion
 |  |
@@ -275,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0261-graph-valid-tree](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0261-graph-valid-tree) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0841-keys-and-rooms) |
+| [1494-parallel-courses-ii](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1494-parallel-courses-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -327,4 +330,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0362-design-hit-counter](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/0362-design-hit-counter) |
+## Bitmask
+|  |
+| ------- |
+| [1494-parallel-courses-ii](https://github.com/siddhant07/Siddhant_LeetCode/tree/master/1494-parallel-courses-ii) |
 <!---LeetCode Topics End-->
